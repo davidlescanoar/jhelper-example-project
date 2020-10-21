@@ -1,12 +1,13 @@
-#include <iostream>
-#include <fstream>
-
 %Code%
 
-int main() {
-	%ClassName% solver;
-	%Input%
-	%Output%
-	%SolverCall%
-	return 0;
+int main()
+{
+    %Input%
+    %Output%
+    FIO;
+    #ifdef tourBina
+        ///freopen("input.in", "r", stdin);
+    #endif
+    %ClassName%(in, out);
+    return 0;
 }

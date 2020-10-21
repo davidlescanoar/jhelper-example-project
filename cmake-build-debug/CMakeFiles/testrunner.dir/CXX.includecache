@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/david/Documentos/Programming/JHelper/tasks/FZeroRemainderSum.cpp
+bits/stdc++.h
+-
+
+/home/david/Documentos/Programming/JHelper/testrunner/main.cpp
+../tasks/FZeroRemainderSum.cpp
+/home/david/Documentos/Programming/JHelper/tasks/FZeroRemainderSum.cpp
+iostream
+-
+fstream
+-
+sstream
+-
+string
+-
+vector
+-
+cctype
+-
+ctime
+-
+

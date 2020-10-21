@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="jhelper-example-project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/david/Documentos/Programming/JHelper/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/david/Documentos/Programming/JHelper/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="output">
+				<Option output="/home/david/Documentos/Programming/JHelper/cmake-build-debug/output" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/david/Documentos/Programming/JHelper/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 output"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="output/fast">
+				<Option output="/home/david/Documentos/Programming/JHelper/cmake-build-debug/output" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/david/Documentos/Programming/JHelper/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 output/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testrunner">
+				<Option output="/home/david/Documentos/Programming/JHelper/cmake-build-debug/testrunner" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/david/Documentos/Programming/JHelper/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 testrunner"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testrunner/fast">
+				<Option output="/home/david/Documentos/Programming/JHelper/cmake-build-debug/testrunner" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/david/Documentos/Programming/JHelper/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 testrunner/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test">
+				<Option output="/home/david/Documentos/Programming/JHelper/cmake-build-debug/test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/david/Documentos/Programming/JHelper/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 test"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test/fast">
+				<Option output="/home/david/Documentos/Programming/JHelper/cmake-build-debug/test" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/david/Documentos/Programming/JHelper/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 test/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/david/Documentos/Programming/JHelper/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/david/Documentos/Programming/JHelper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/library/lib.hpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/output/main.cpp">
+			<Option target="output"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/A123Sequence.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/AAhahahahahahahaha.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/AAvoidingZero.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/ABadTriangle.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/ABoboniuLikesToColorBalls.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/ABoringApartments.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/ABoxIsPull.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/ACircleColoring.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/ACopyPaste.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/ACutRibbon.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/ADigitGame.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/ADistanceAndAxis.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/AExercisingWalk.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/AFence.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/AFloorNumber.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/AJugglingLetters.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/ANumberOfApartments.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/AOmkarAndPassword.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/APermutationForgery.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/AStringSimilarity.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/ASubsetMex.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/AXORwice.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/AYetAnotherTwoIntegersProblem.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/BArrayCancellation.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/BArraysSum.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/BBarrels.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/BBeltedRooms.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/BBoboniuPlaysChess.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/BChessCheater.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/BCompositeColoring.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/BMaximumProduct.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/BMinimumProduct.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/BNiceMatrix.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/BOmkarAndInfinityClock.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/BPowerSequence.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/BPuttingBricksInTheWall.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/BRPGProtagonist.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/BRestaurant.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/BSubstringRemovalGame.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/BSymmetricMatrix.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/BTwoArrays.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/BYetAnotherBookshelf.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/CABBB.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/CBalancedBitstring.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/CBargain.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/CBinaryStringReconstruction.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/CBoboniuAndBitOperations.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/CDominantPiranha.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/CIncreaseAndCopy.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/CKAmazingNumbers.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/CNumbersOnWhiteboard.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/COmkarAndWaterslide.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/CTheHardWorkOfPaparazzi.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/CYetAnotherArrayRestoration.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/Candies.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/CoinCollector.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/CompanyQueriesII.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/CountingRooms.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/CourseSchedule.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/DBouncingBoomerangs.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/DCarousel.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/DColoredRectangles.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/DDecreaseTheSumOfDigits.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/DDistrictsConnection.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/DNonZeroSegments.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/DStringDeletion.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/DTaskOnTheBoard.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/DistanceQueries.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/DistinctColors.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/E1ReadingBooksEasyVersion.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/E1WeightsDivisionEasyVersion.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/E2WeightsDivisionHardVersion.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/ECarrotsForRabbits.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/EKPeriodicGarland.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/ERockPaperScissors.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/EStringReversal.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/ETreeQueries.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/ETwoPlatforms.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/ETwoRoundDances.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/FDecreasingHeights.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/FMaximumWhiteSubtree.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/FNumberOfSubsequences.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/FRemovingLeaves.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/FSubsequencesOfLengthTwo.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/FYetAnother2DWalking.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/FYetAnotherSegmentsSubset.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/FZeroRemainderSum.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/FlightRoutesCheck.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/PathQueries.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/PlanetsAndKingdoms.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/RangeSumQueriesII.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/SubtreeQueries.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/TreeMatching.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/tasks/WhatGoesUp.cpp">
+			<Option target="test"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/testrunner/main.cpp">
+			<Option target="testrunner"/>
+		</Unit>
+		<Unit filename="/home/david/Documentos/Programming/JHelper/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

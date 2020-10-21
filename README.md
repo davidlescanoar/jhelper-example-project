@@ -1,1 +1,2 @@
-Example project for [JHelper](https://github.com/AlexeyDmitriev/jhelper/)
+# Códigos de problemas
+Repo para guardar códigos de problemas intentados/resueltos de jueces como Codeforces, CSES, OnlineJudge, Hackerrank, etc.

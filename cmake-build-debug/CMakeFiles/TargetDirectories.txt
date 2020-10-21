@@ -1,0 +1,5 @@
+/home/david/Documentos/Programming/JHelper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/david/Documentos/Programming/JHelper/cmake-build-debug/CMakeFiles/output.dir
+/home/david/Documentos/Programming/JHelper/cmake-build-debug/CMakeFiles/testrunner.dir
+/home/david/Documentos/Programming/JHelper/cmake-build-debug/CMakeFiles/test.dir
+/home/david/Documentos/Programming/JHelper/cmake-build-debug/CMakeFiles/edit_cache.dir

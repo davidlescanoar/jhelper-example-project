@@ -27,6 +27,13 @@ bool check(std::string expected, std::string actual) {
 
 } // namespace jhelper
 
+class Solver {
+    public:
+    void solve(std::istream& in, std::ostream& out) {
+        return %ClassName%(in, out);
+    }
+};
+
 int main() {
 	std::vector<jhelper::Test> tests = {
 		%Tests%
@@ -48,7 +55,7 @@ int main() {
 			std::stringstream in(test.input);
 			std::ostringstream out;
 			std::clock_t start = std::clock();
-			%ClassName% solver;
+            Solver solver;
 			%SolverCall%
 			std::clock_t finish = std::clock();
 			double currentTime = double(finish - start) / CLOCKS_PER_SEC;
